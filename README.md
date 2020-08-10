@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://i.giphy.com/media/eNYUEQcZap5HcRaX3Q/giphy.webp">
+<img width="100%" height="100%" src="https://i.giphy.com/media/eNYUEQcZap5HcRaX3Q/giphy.webp">
 
 <!--
 **pofreire/pofreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
