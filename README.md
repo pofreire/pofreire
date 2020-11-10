@@ -1,18 +1,17 @@
-<!-- <img width="100%" src="https://i.giphy.com/media/Xevm8HsjkNIzkWfrcu/giphy.webp"> -->
 
 
-<!--
-### Hi there 👋
-**pofreire/pofreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello, I'm Pedro!
+<img align="right" width="400" src="https://media.giphy.com/media/zoFBRfQo68Zqw/giphy.gif">
 
-Here are some ideas to get you started:
+Full Stack Developer Java | Systems Analyst at UniRedentor :man_technologist:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently studying React and Node.js :atom:
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pofreire&layout=compact)
+
+## About me 
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pofreire/)](https://www.linkedin.com/in/pofreire/)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5522981253123!)](https://api.whatsapp.com/send?phone=5522981253123)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:30freire@gmail.com)](mailto:30freire@gmail.com)
