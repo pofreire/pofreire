@@ -7,8 +7,6 @@ Full Stack Developer Java | System Analyst at UniRedentor :man_technologist:
 
 I am currently studying React and Node.js :atom:
 
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pofreire&layout=compact)
 
 ## About me 
