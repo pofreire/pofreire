@@ -3,9 +3,9 @@
 ## Hello, I'm Pedro!
 <img align="right" width="400" src="https://media.giphy.com/media/zoFBRfQo68Zqw/giphy.gif">
 
-Full Stack Developer Java | System Analyst at UniRedentor :man_technologist:
+Full Stack Developer at Vórtx :man_technologist:
 
-I am currently studying React and Node.js :atom:
+I am currently studying Spring, Tests, React and Node.js :atom:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pofreire&layout=compact)
 
